@@ -7,6 +7,8 @@ https://www.privacyguides.org/en/tools/
 
 # My personal recommendation list (shorter but not as comprehensive as Privacy Guides)
 
+This is what I recommend as a starting checklist for when you get a new device. Most of these apps are available for both desktop and mobile, with some obvious exceptions. 
+
 - Stop Windows 10 & 11 from spying on you: O&O Shutup 10++ https://dl5.oo-software.com/files/ooshutup10/OOSU10.exe
 - Watch Youtube without ads or tracking: Freetube https://freetubeapp.io/#download
 - Notes application that doesn't let Google spy on you or lock you out of your own stuff: Joplin https://joplinapp.org/help/install/ or Standard Notes https://standardnotes.com/download/windows
