@@ -1,9 +1,10 @@
 # privacy
 A curated list of privacy resources for the realistically paranoid
 
-# The big list of private applications and serivces
+# Big lists of private applications and serivces
 
-https://www.privacyguides.org/en/tools/
+- https://www.privacyguides.org/en/tools/
+- https://github.com/pluja/awesome-privacy
 
 # My personal recommendation list (shorter but not as comprehensive as Privacy Guides)
 
