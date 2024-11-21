@@ -25,3 +25,4 @@ This is what I recommend as a starting checklist for when you get a new device. 
 - Office applications that don't cost money and don't spy on you: LibreOffice https://www.libreoffice.org/
 - File Sync between devices you own: SyncThing https://syncthing.net/
 - Email that doesn't feed your info to an advertising algorithm: Proton Mail https://proton.me/mail
+- End-to-end encrypted text/chat: Signal https://signal.org
