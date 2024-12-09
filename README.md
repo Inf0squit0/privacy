@@ -19,7 +19,7 @@ This is what I recommend as a starting checklist for when you get a new device. 
 - Alternate choice for anti-tracking web browser: Mullvad Browser https://mullvad.net/en/browser
 - Search engine that doesn't track you: Startpage https://startpage.com/
 - Password Manager that is more secure than LastPass: KeePass2 https://sourceforge.net/projects/keepass/files/KeePass%202.x/2.56/KeePass-2.56-Setup.exe/download
-- Best VPNs: Private Internet Access https://www.privateinternetaccess.com/, Proton VPN https://protonvpn.com/, AirVPN https://airvpn.org/, Mullvad VPN https://mullvad.net/en/vpn
+- Best VPNs: Proton VPN https://protonvpn.com/, AirVPN https://airvpn.org/, Mullvad VPN https://mullvad.net/en/vpn
 - Cloud Storage that doesn't spy on you: Proton Drive https://proton.me/drive or Tresorit https://tresorit.com/
 - Calendar that doesn't spy on you: Proton Calendar https://proton.me/calendar
 - Office applications that don't cost money and don't spy on you: LibreOffice https://www.libreoffice.org/
