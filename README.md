@@ -32,7 +32,7 @@ The main issue is that GrapheneOS only works on unlocked Google Pixel phones, so
 
 The nice thing about the Google Pixel 8 and 9 series phones is that they will still be up-to-date for 7 years. The Pixel 8a, 9, and 9 Pro will all be up-to-date until 2031. The 8 and 8 Pro will stay up-to-date until 2030. If you don't like spending a lot of money on a phone, the Pixel 8a is the best deal. 
 
-# Sources cites for this list
+# Sources cited for this list
 
 - **Extreme Privacy: What it Takes to Disappear** (highest recommendation) https://inteltechniques.com/book7.html
 - https://www.privacyguides.org/en/tools/
