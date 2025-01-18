@@ -1,11 +1,6 @@
 # privacy
 A curated list of privacy resources for the realistically paranoid
 
-# Big lists of private applications and serivces
-
-- https://www.privacyguides.org/en/tools/
-- https://github.com/pluja/awesome-privacy
-
 # My personal recommendation list (shorter but not as comprehensive as Privacy Guides)
 
 This is what I recommend as a starting checklist for when you get a new device. Most of these apps are available for both desktop and mobile, with some obvious exceptions. 
@@ -36,3 +31,9 @@ GrapheneOS will remove ALL Google spying from the phone, but still let you use A
 The main issue is that GrapheneOS only works on unlocked Google Pixel phones, so you have to buy an unlocked phone directly instead of getting a phone as part of a plan from your carrier. The Google Pixel 8a is IMO the best low-cost option: https://store.google.com/product/pixel_8a?hl=en-US
 
 The nice thing about the Google Pixel 8 and 9 series phones is that they will still be up-to-date for 7 years. The Pixel 8a, 9, and 9 Pro will all be up-to-date until 2031. The 8 and 8 Pro will stay up-to-date until 2030. If you don't like spending a lot of money on a phone, the Pixel 8a is the best deal. 
+
+# Sources cites for this list
+
+- **Extreme Privacy: What it Takes to Disappear** (highest recommendation) https://inteltechniques.com/book7.html
+- https://www.privacyguides.org/en/tools/
+- https://github.com/pluja/awesome-privacy
