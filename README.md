@@ -26,3 +26,13 @@ This is what I recommend as a starting checklist for when you get a new device. 
 - File Sync between devices you own: SyncThing https://syncthing.net/
 - Email that doesn't feed your info to an advertising algorithm: Proton Mail https://proton.me/mail
 - End-to-end encrypted text/chat: Signal https://signal.org
+
+# How to not be spied on by your cell phone
+
+If you want to be fully safe from your phone spying on you, you're going to need to install **GrapheneOS** https://grapheneos.org/
+
+GrapheneOS will remove ALL Google spying from the phone, but still let you use Android apps. I've found all of the apps I recommend on this list to work on GrapheneOS. 
+
+The main issue is that GrapheneOS only works on unlocked Google Pixel phones, so you have to buy an unlocked phone directly instead of getting a phone as part of a plan from your carrier. The Google Pixel 8a is IMO the best low-cost option: https://store.google.com/product/pixel_8a?hl=en-US
+
+The nice thing about the Google Pixel 8 and 9 series phones is that they will still be up-to-date for 7 years. The Pixel 8a, 9, and 9 Pro will all be up-to-date until 2031. The 8 and 8 Pro will stay up-to-date until 2030. If you don't like spending a lot of money on a phone, the Pixel 8a is the best deal. 
