@@ -21,6 +21,7 @@ This is what I recommend as a starting checklist for when you get a new device. 
 - File Sync between devices you own: SyncThing https://syncthing.net/
 - Email that doesn't feed your info to an advertising algorithm: Proton Mail https://proton.me/mail
 - End-to-end encrypted text/chat: Signal https://signal.org
+- Download Android apps without a Google account: Aurora Store https://auroraoss.com/ and F-Droid https://f-droid.org/
 
 # How to not be spied on by your cell phone
 
