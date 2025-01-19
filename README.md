@@ -1,5 +1,5 @@
 # privacy
-A curated list of privacy resources for the realistically paranoid
+A curated list of relatively simple-to-use privacy resources for those who do not want to be spied on by techbros and AIs
 
 # My personal recommendation list (the quick & dirty list of ways to escape enshittified apps that are spying on you)
 
