@@ -1,7 +1,7 @@
 # privacy
 A curated list of privacy resources for the realistically paranoid
 
-# My personal recommendation list (shorter but not as comprehensive as Privacy Guides)
+# My personal recommendation list (the quick & dirty list of ways to escape enshittified apps that are spying on you)
 
 This is what I recommend as a starting checklist for when you get a new device. Most of these apps are available for both desktop and mobile, with some obvious exceptions. 
 
@@ -13,7 +13,7 @@ This is what I recommend as a starting checklist for when you get a new device. 
 - Super-paranoid anti-tracking web browser: Brave https://brave.com/ (you will have to disable some crypto nonsense after installing, but the browser itself is legit)
 - Alternate choice for anti-tracking web browser: Mullvad Browser https://mullvad.net/en/browser
 - Search engine that doesn't track you: Startpage https://startpage.com/ (https://duckduckgo.com/ is also good but put `-ai` at the end of your searches)
-- Password Manager that is more secure than LastPass: KeePass2 https://sourceforge.net/projects/keepass/files/KeePass%202.x/2.56/KeePass-2.56-Setup.exe/download or Proton Pass (https://proton.me/pass)
+- Password Manager that is more secure than LastPass: KeePass2 https://keepass.info/download.html or Proton Pass (https://proton.me/pass)
 - Best VPNs: Proton VPN https://protonvpn.com/, AirVPN https://airvpn.org/, Mullvad VPN https://mullvad.net/en/vpn
 - Cloud Storage that doesn't spy on you: Proton Drive https://proton.me/drive or Tresorit https://tresorit.com/
 - Calendar that doesn't spy on you: Proton Calendar https://proton.me/calendar
