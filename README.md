@@ -33,9 +33,9 @@ The main issue is that GrapheneOS only works on unlocked Google Pixel phones, so
 
 The nice thing about the Google Pixel 8 and 9 series phones is that they will still be up-to-date for 7 years. The Pixel 8a, 9, and 9 Pro will all be up-to-date until 2031. The 8 and 8 Pro will stay up-to-date until 2030. If you don't like spending a lot of money on a phone, the Pixel 8a is the best deal. 
 
-## "Can't I just downgrade to a dumbphone?"
+**If you can't afford to, or don't want to, change phones right now, the next best option is to use the apps I listed above, and don't use any Google/Apple/Microsoft services. Apple is still a little bit more trustworthy but you have to read the fine print.**
 
-Big tech can still read your text messages if you do that. You can't install Signal on a flip phone. The only completely safe options are to either not own a cell phone at all, or own a smart phone that you have full control over, and right now the only way to own a cell phone you fully control is to buy a Pixel phone and install GrapheneOS on it. 
+Unfortunately downgrading to a dumbphone isn't a perfect solution, because big tech can still read your text messages. Android or iPhone with Signal and Proton Mail/Calendar/etc is still significantly better than most other options. 
 
 # Sources cited for this list
 
