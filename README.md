@@ -7,7 +7,7 @@ This is what I recommend as a starting checklist for when you get a new device. 
 
 - Stop Windows 10 & 11 from spying on you: O&O Shutup 10++ https://dl5.oo-software.com/files/ooshutup10/OOSU10.exe
 - Watch Youtube without ads or tracking: Freetube https://freetubeapp.io/#download
-- Notes application that doesn't let Google spy on you or lock you out of your own stuff: Joplin https://joplinapp.org/help/install/ or Standard Notes https://standardnotes.com/download/windows
+- Notes application that doesn't let Google spy on you or lock you out of your own stuff: Joplin https://joplinapp.org/help/install/ or Standard Notes https://standardnotes.com/download/windows. Tiddlywiki https://tiddlywiki.com/ is also great but you will have to do your own backups. 
 - Best media player: VLC https://www.videolan.org/vlc/
 - Web browser: Firefox  https://www.mozilla.org/en-US/firefox/new/ (install the uBlock Origin, Disconnect, and Decentraleyes add-ons)
 - Super-paranoid anti-tracking web browser: Brave https://brave.com/ (you will have to disable some crypto nonsense after installing, but the browser itself is legit)
